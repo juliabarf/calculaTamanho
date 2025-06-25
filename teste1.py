@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 #teste que eu to usando atualmente para calcular a área total
 #configuração
 caminho_imagem = ("poroSo.png")
